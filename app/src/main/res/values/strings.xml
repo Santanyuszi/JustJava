@@ -3,4 +3,7 @@
     <string name="button">ORDER</string>
     <string name="value">0</string>
     <string name="quantity">QUANTITY</string>
+    <string name="price">$0</string>
+    <string name="pricetag">Price</string>
+
 </resources>
